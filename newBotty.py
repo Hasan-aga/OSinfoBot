@@ -11,7 +11,7 @@ def main():
     # bot tokken
     token = ''
     # group id
-    groupid=''
+    groupid=
     # creating the bot
     bot = telegram.Bot(token=token)
     # get system name
