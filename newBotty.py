@@ -9,9 +9,9 @@ def bop(bot,chatid,msg):
 
 def main():
     # bot tokken
-    token = '1145900772:AAF9OtRgU9CQ2wb-Fiz2kYUhrg5Cm2xNFa0'
+    token = ''
     # group id
-    groupid=-435312318
+    groupid=''
     # creating the bot
     bot = telegram.Bot(token=token)
     # get system name
